@@ -1,5 +1,5 @@
 ---
-name: restaurant-video-breakdown
+name: py-restaurant-breakdown
 description: 当用户提供餐饮参考视频并要求拆片、拉片、分析脚本或帮助客户复刻时使用。先判断消费场景和内容任务，再输出内容主线、到店理由、证据链、关键帧和可调整仿拍抓手；适用于本地视频、口播视频、连续现场素材和带文案的动图式视频。
 ---
 

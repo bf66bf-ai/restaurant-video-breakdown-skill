@@ -1,0 +1,4 @@
+interface:
+  display_name: "py-restaurant-breakdown"
+  short_description: "Restaurant video breakdown and replication structure beta"
+  default_prompt: "使用 $py-restaurant-breakdown 完成它所解决的任务，并按可观察标准检查结果。"
