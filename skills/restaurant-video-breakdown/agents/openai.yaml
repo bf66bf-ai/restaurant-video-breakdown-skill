@@ -1,0 +1,4 @@
+interface:
+  display_name: "restaurant-video-breakdown"
+  short_description: "Restaurant video breakdown and replication structure beta"
+  default_prompt: "使用 $restaurant-video-breakdown 完成它所解决的任务，并按可观察标准检查结果。"
