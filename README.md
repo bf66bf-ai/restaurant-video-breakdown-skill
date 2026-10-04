@@ -22,4 +22,4 @@ npx -y skills add bf66bf-ai/restaurant-video-breakdown-skill -g --all
 
 ## 内容
 
-本仓库只发布运行这个 Skill 所需的文件。本地评测样本、预期答案和运行记录不包含在内测包中；当前仓库为私有 beta，尚未代表正式稳定版。
+本仓库只发布运行这个 Skill 所需的文件。本地评测样本、预期答案和运行记录不包含在测试包中；当前仓库为公开 beta，尚未代表正式稳定版。
